@@ -1,4 +1,4 @@
-# cjs ![Deno](https://github.com/sant123/cjs-vars/workflows/Deno/badge.svg)
+# cjs [![Deno](https://github.com/sant123/cjs/actions/workflows/deno.yml/badge.svg)](https://github.com/sant123/cjs/actions/workflows/deno.yml)
 
 Create variables like `__dirname` and `__filename` in Deno. Their behavior is
 the same as Node.js variables.
