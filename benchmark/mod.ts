@@ -1,4 +1,4 @@
-import { testCJS, testPathSTD, testURL } from './get_dirname.ts';
+import { testCJS, testPathSTD, testURL } from "./get_dirname.ts";
 
 // new URL('.', import.meta.url);
 testURL();
