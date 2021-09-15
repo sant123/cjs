@@ -31,3 +31,18 @@ This should work with the [stable](https://nodejs.org/dist/latest-v15.x/docs/api
 ## Testing
 
 This library is highly tested to provide the same variables behavior of Node.js. If you see something is missing or ¿did you find a bug? pull requests are really welcome.
+
+## Benchmark
+
+Tested with 1,000 records using Deno v1.14:
+
+``` txt
+/home/sant821/Desktop/projects/cjs/benchmark/
+URL: 5ms
+
+/home/sant821/Desktop/projects/cjs/benchmark
+STD: 7ms
+
+/home/sant821/Desktop/projects/cjs/benchmark
+CJS: 1ms
+```
