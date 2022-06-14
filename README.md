@@ -41,15 +41,6 @@ welcome.
 
 ## Benchmark
 
-Tested with 1,000 records using Deno v1.14:
+Tested with Deno v1.22.3:
 
-```txt
-/home/sant821/Desktop/projects/cjs/benchmark/
-URL: 5ms
-
-/home/sant821/Desktop/projects/cjs/benchmark
-STD: 7ms
-
-/home/sant821/Desktop/projects/cjs/benchmark
-CJS: 1ms
-```
+![](benchmark/get_dirname.png)
