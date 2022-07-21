@@ -41,6 +41,6 @@ welcome.
 
 ## Benchmark
 
-Tested with Deno v1.22.3:
+Tested with Deno v1.24.0:
 
 ![](benchmark/get_dirname.png)
